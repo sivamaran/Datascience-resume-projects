@@ -1,4 +1,15 @@
-# Datascience-resume-projects
+# Data Science Projects
+
 My portfolio of data science projects.
--Linked In : www.linkedin.com/in/sivamaran-m-a-c
--Email : sivamaran.c@gmail.com
+
+## Projects:
+- 
+
+
+
+## 📎 Contact
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sivamaran-m-a-c)
+- 📧 [sivamaran.c@gmail.com](mailto:sivamaran.c@gmail.com)
+
+
