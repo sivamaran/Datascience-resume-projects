@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Joint
+comment1.params=a
+comment1.target=Joint(java.lang.String)
+comment2.params=b
+comment2.target=void\ connect(Joint)
+comment3.params=n
+comment3.target=void\ setMat(int)
+comment4.params=f
+comment4.target=void\ addForce(Force)
+comment5.params=len\ a\ p
+comment5.target=double[][]\ con(int,\ double[][],\ int)
+comment6.params=len\ a\ p
+comment6.target=double[]\ con(int,\ double[],\ int)
+comment7.params=a\ b
+comment7.target=double[][]\ add(double[][],\ double[][])
+comment8.params=a\ b
+comment8.target=double[]\ add(double[],\ double[])
+numComments=9
