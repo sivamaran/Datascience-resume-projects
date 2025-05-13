@@ -1,0 +1,4 @@
+Product ID,Name,Price,Category,Rating,Reviews,Brand,Stock,Discount,LaunchDate
+101,Laptop,1200,Electronics,4.8,300,Dell,True,0.15,2022-03-15
+102,Smartphone,800,Electronics,4.6,250,Samsung,True,0.10,2022-02-20
+106,Headphones,150,Electronics,4.9,400,Sony,True,0.20,2022-06-01
